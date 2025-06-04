@@ -10,6 +10,7 @@ _Rendering of the RGB-LED-Module-for-Olfactory-Assay-Arena (by Mehrdad Ghanbari)
 ## Reference
 The RGB-LED module "Model 608 revC V1.0" was designed as a drop-in replacement for the original single-color LED module used in the “Olfactory Assay Arena – Revision C” developed by HHMI’s Janelia Research Campus.
 https://www.janelia.org/open-science/four-way-olfactometer-arena-fruit-flies
+
 Our contribution is limited to adapting the original PCB layout to support three-color RGB LEDs. All mechanical components and the intended use case remain unchanged and originate entirely from the original design provided by the Janelia Research Campus.
 
 This repository is intended solely for research and prototyping purposes. All rights to the original design and its application belong to HHMI’s Janelia Research Campus.
