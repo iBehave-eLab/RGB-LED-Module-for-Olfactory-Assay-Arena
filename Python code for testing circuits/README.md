@@ -1,0 +1,1 @@
+To test the board, a graphical user interface (GUI) developed in Python is provided. The GUI sends serial commands to an Arduino Mega, which is responsible for controlling the board. This setup allows for easy verification and control of various functions and processes on the board. The combination of the Python GUI and Arduino creates a simple and efficient testing environment.
